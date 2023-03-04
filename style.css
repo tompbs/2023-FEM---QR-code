@@ -29,12 +29,13 @@ main {
     margin-top: 10px;
     margin-bottom: 0;
     padding-bottom: 0;
+    color: hsl(218, 44%, 22%);
 }
 
 .subtitle{
     font-size: 15px;
     font-weight: 400;
-    color: #8b8f97;
+    color: hsl(220, 15%, 55%);
     padding: 20px;
     margin: 0;
 
